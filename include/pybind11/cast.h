@@ -15,6 +15,7 @@
 #include "detail/descr.h"
 #include "detail/internals.h"
 #include <array>
+#include <cstdint>
 #include <limits>
 #include <tuple>
 #include <type_traits>
